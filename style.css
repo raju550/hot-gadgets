@@ -1,6 +1,13 @@
 .container-fluid {
   background-color: white;
 }
+.bg-images {
+  background-image: url("images/bg-2.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-position-x: left;
+  background-size: 100px;
+}
 .container {
   margin-bottom: 50px;
 }
@@ -40,9 +47,13 @@
   background-color: white;
   box-shadow: 5px 10px 20px lightgray;
   margin: 10px;
+  margin-bottom: 10px;
   border-radius: 8px;
   padding: 10px;
 }
 .item-hg {
   padding: 10px;
+}
+.row.bg-item.text-center {
+  margin-top: 40px;
 }
