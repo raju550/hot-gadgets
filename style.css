@@ -1,0 +1,48 @@
+.container-fluid {
+  background-color: white;
+}
+.container {
+  margin-bottom: 50px;
+}
+.navbar {
+  padding-bottom: 0rem;
+}
+.navbar img {
+  width: 100px;
+}
+.carousel-indicators [data-bs-target] {
+  background-color: rgb(230, 113, 4);
+}
+.button-buy-now {
+  border: none;
+  padding: 20px 30px;
+  font-size: 20px;
+  border-radius: 8px;
+  background-color: #000000;
+  color: white;
+  margin-top: 40px;
+}
+.seecolor {
+  color: tomato;
+}
+.itemImage img {
+  padding: 5rem;
+}
+.card {
+  border: none;
+  box-shadow: 5px 10px 20px lightgray;
+}
+.bg-card {
+  background-color: whitesmoke;
+}
+
+.bg-item {
+  background-color: white;
+  box-shadow: 5px 10px 20px lightgray;
+  margin: 10px;
+  border-radius: 8px;
+  padding: 10px;
+}
+.item-hg {
+  padding: 10px;
+}
